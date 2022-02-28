@@ -2,7 +2,7 @@
 Demo of handling imbalanced dataset
 
 
-Video link:  https://youtu.be/UlGs_rUomow
+Video link:  https://youtu.be/_fe7JOBGbuU
 
 #MìAI <br>
 Fanpage: http://facebook.com/miaiblog<br>
